@@ -1,7 +1,9 @@
 streamlit
+numba
 numpy
 pandas
 scipy
 datetime
 mpmath
+math
 plotly
