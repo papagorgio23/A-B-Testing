@@ -7,7 +7,7 @@ A/B Testing App made with Streamlit in Python
 
 Run:
 ```bash
-git clone https://github.com/streamlit/demo-face-gan.git
+git clone https://github.com/papagorgio23/A-B-Testing.git
 cd A-B-Testing
 pip install -r requirements.txt
 ```
