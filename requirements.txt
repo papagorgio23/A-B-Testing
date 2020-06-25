@@ -5,5 +5,4 @@ pandas
 scipy
 datetime
 mpmath
-math
 plotly
